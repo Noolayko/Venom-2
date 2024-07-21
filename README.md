@@ -1,4 +1,4 @@
-# VENOM-2
+# FI BOT UGANDA-2
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cbf9de0b-7b2b-4764-b0d8-b3fa2324df85"/> 
@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FI BOT-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
