@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cbf9de0b-7b2b-4764-b0d8-b3fa2324df85"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DOM+HACKER;REALESE+DATE+well%For%2FSoon." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____FI+UGANDA_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DON+HACKER UG;REALESE+DATE+wait%For%it%2FSoon." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
