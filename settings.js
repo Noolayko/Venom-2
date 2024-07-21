@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "256742366969"
+global.ownername = "DON HACKER"
+global.ytname = "DON HACKER"
 global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Africa, Uganda, Kampala"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
+global.ownernumber = '256742366969,256752366969,256742366969'  //creator number
 global.ownername = 'David Cyril' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = 'David_Cyril\n\nContact: +256742366969'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://chat.whatsapp.com/ITMPi6M3UIt3HGwQEeG90k'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
